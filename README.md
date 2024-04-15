@@ -1,2 +1,2 @@
 # MKW-MCTE
- Short for Mario Kart Wii MAX Course Time Estimator.
+Short for Mario Kart Wii MAX Course Time Estimator.
